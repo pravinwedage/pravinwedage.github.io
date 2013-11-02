@@ -21,11 +21,18 @@ a:link {
 }
 
 #content {
-	margin: 70px auto;
+	margin: 50px auto;
 	width: 900px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 10pt;
 	line-height: 170%;
+}
+
+#intro {
+	font-size: 14pt;
+	line-height: 200%;
+	font-weight: 300;
+	margin-bottom: 30px;
 }
 
 #left {
